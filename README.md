@@ -20,3 +20,7 @@ This is a good news, chungdahm has trash firewalls.
 
 Have fun with this!
 잘 쓰세요!
+
+# Q&A
+Q1. 프로그램을 실행했는데도 잠깐 검정 화면이 떴다 바로 꺼져요.
+A1. 파이썬을 제대로 설치했는지 확인하세요.
